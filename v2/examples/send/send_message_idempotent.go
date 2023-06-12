@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/trycourier/courier-go/v2"
+	"github.com/merit/courier-go/v2"
 )
 
 func sendIdempotentMessage() {

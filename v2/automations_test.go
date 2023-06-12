@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/trycourier/courier-go/v2"
+	"github.com/merit/courier-go/v2"
 )
 
 func TestInvokeAutomation(t *testing.T) {

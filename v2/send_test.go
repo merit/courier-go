@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/trycourier/courier-go/v2"
+	"github.com/merit/courier-go/v2"
 )
 
 func TestSend_SendMap(t *testing.T) {
